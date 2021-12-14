@@ -1,0 +1,9 @@
+Edwin,1
+Steve,4
+Kristin,3
+Annie,5
+Richard,2
+Carmen,4
+Jessica,4
+Thomas,3
+Kim,5

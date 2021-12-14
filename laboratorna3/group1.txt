@@ -1,0 +1,9 @@
+Michael,5
+Peggy,3
+Michelle,4
+Scott,2
+Shelly,5
+Anton,2
+Stas,5
+Nazar,4
+Maksim,3
